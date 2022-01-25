@@ -6,7 +6,7 @@
     const db = new sqlite3.Database('/home/ubuntu/streamlabs-api-demo/db.sqlite');
 
     const prefix = "!"
-    const token = "OTM0Njc5MTc3NzYyODMyNDE0.Yezl0Q.8ovYwEaHvKdflEsxMRpHZMSlYiQ"
+    const token = ""
     
     client.on("ready", () => {
       console.log("Bot has logged in!")
